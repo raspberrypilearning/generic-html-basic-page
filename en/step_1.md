@@ -1,19 +1,19 @@
-## Introduction
++ This HTML code gives you the basic structure of a page. Copy and paste the code into the HTML file you created, then save the file.
 
-Add project description here. What will learners be making?
+```html
+<html>
+  <head>
+    <title>My page title</title>
+  </head>
+  <body>
+    Items I want to appear on my page will go here
+  </body>
+  </html>
+```
++ Go to the folder where you saved your HTML file. Open the file with your internet browser as well as the text editor so that you have the same file open in your text editor and in your browser at the same time.
 
-### What you will make
+On Windows, you may need to right-click the file, choose Open with, and then select your internet browser.
 
-Add something here to showcase here, for example:
+![Open with on Windows](images/open_with.png)
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
-
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
-
-### What you will learn
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
-
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level)
+Whenever you change the code in your text editor, save it and then press the refresh button on your browser to see the page update.
