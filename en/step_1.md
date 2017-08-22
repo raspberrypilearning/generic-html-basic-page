@@ -1,4 +1,4 @@
-+ The HTML code below gives you the basic structure of a page. Copy and paste the code into the HTML file you created, then save the file.
++ The HTML code below gives you the basic structure of a page. Copy and paste the code into a HTML file, then save the file.
 
 ```html
 <html>
