@@ -1,6 +1,6 @@
-title: Code for a basic HTML page
+title: Create a basic HTML page
 hero_image: images/banner.png
-description: Code to create the skeleton of a very basic HTML page
+description: Create the skeleton of a basic HTML page
 theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 1 # possible values: 1, 2 or 3
 listed: false
@@ -11,4 +11,4 @@ interests: "games, jokes/pranks, music/sound, photography, physical computing, r
 technologies: "electronics, sense-hat, physical computing, html/css, scratch, python"
 site_areas:
 steps:
-  - title: Step one
+  - title: How to create a basic HTML page
