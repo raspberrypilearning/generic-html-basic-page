@@ -1,4 +1,5 @@
-+ This HTML code gives you the basic structure of a page. Copy and paste the code into the HTML file you created, then save the file.
++ Open a new blank file in your text editor, and save it as an HTML file by adding the file extension `.html` after the name.
++ The HTML code below gives you the basic structure of a page. Copy and paste the code into the HTML file you created, then save the file.
 
 ```html
 <html>
@@ -10,10 +11,10 @@
   </body>
   </html>
 ```
-+ Go to the folder where you saved your HTML file. Open the file with your internet browser as well as the text editor so that you have the same file open in your text editor and in your browser at the same time.
++ Go to the folder where you saved your HTML file. Open the file with your internet browser as well, so that you have the same file open in your text editor and in your browser.
 
-On Windows, you may need to right-click the file, choose Open with, and then select your internet browser.
+On Windows, you may need to right-click the file, choose **Open with**, and then select your internet browser.
 
 ![Open with on Windows](images/open_with.png)
 
-Whenever you change the code in your text editor, save it and then press the refresh button on your browser to see the page update.
+Whenever you change the code in your text editor, save it and then click the **Refresh** button of your browser to see the updated page.
