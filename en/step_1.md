@@ -1,4 +1,3 @@
-+ Open a new blank file in your text editor, and save it as an HTML file by adding the file extension `.html` after the name.
 + The HTML code below gives you the basic structure of a page. Copy and paste the code into the HTML file you created, then save the file.
 
 ```html
