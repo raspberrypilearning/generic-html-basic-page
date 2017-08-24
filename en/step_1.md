@@ -8,7 +8,7 @@
   <body>
     Items I want to appear on my page will go here
   </body>
-  </html>
+</html>
 ```
 + Go to the folder where you saved your HTML file. Open the file with your internet browser as well, so that you have the same file open in your text editor and in your browser.
 
