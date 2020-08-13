@@ -1,7 +1,7 @@
 ---
-title: Create a basic HTML page
+title: एक मूल HTML पेज बनाएँ
 hero_image: images/banner.png
-description: Create the skeleton of a basic HTML page
+description: एक मूल HTML पेज का सारांश बनाएँ
 theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 1 #possible values: 1, 2 or 3
 listed: false
@@ -13,4 +13,4 @@ technologies: "electronics, sense-hat, physical computing, html/css, scratch, py
 site_areas:
 steps:
   - 
-    title: How to create a basic HTML page
+    title: एक मूल HTML पेज कैसे बनाएँ
