@@ -1,4 +1,4 @@
-+ The HTML code below gives you the basic structure of a page. Copy and paste the code into a HTML file, then save the file.
++ नीचे दिया गया HTML कोड आपको एक पेज की मूल संरचना देता है। एक HTML फ़ाइल में कोड को कॉपी और पेस्ट करें, फिर फ़ाइल को सहेजें।
 
 ```html
 <html>
@@ -10,10 +10,10 @@
   </body>
 </html>
 ```
-+ Go to the folder where you saved your HTML file. Open the file with your internet browser as well, so that you have the same file open in your text editor and in your browser.
++ उस फ़ोल्डर पर जाएं जहां आपने अपना HTML फ़ाइल सहेजा है। अपने इंटरनेट ब्राउजर के साथ फ़ाइल खोलें, जिससे की आपके टेक्स्ट एडिटर और ब्राउजर दोनों में समान फाइल एक साथ खुली हो।
 
-On Windows, you may need to right-click the file, choose **Open with**, and then select your internet browser.
+Windows पर, आपको फ़ाइल पे राइट-क्लिक करने की आवश्यकता हो सकती है, **Open with** चुनें, और फिर अपना इंटरनेट ब्राउज़र चुनें।
 
-![Open with on Windows](images/open_with.png)
+![Windows पर Open with](images/open_with.png)
 
-Whenever you change the code in your text editor, save it and then click the **Refresh** button of your browser to see the updated page.
+जब भी आप अपने टेक्स्ट एडिटर में कोड बदलते हैं, तो उसे सहेजें और फिर अपडेट किए गए पेज को देखने के लिए अपने ब्राउज़र का **Refresh** बटन दबाएं।
